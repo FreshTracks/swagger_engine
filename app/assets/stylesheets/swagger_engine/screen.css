@@ -1235,7 +1235,7 @@
   padding: 14px;
 }
 .swagger-section #input_baseUrl {
-  width: 400px;
+  width: 350px;
 }
 .swagger-section #api_selector {
   display: block;
@@ -1253,8 +1253,11 @@
   padding: 3px;
   margin: 0;
 }
+.swagger-section #input_apiKeyName {
+    width: 150px;
+}
 .swagger-section #input_apiKey {
-  width: 200px;
+  width: 150px;
 }
 .swagger-section #explore {
   display: block;
